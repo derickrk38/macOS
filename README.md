@@ -9,4 +9,6 @@ Important Note: Before proceeding make sure the two things are done:
   
 2) Make sure the main system disk is 'disk1s5' which is usually the case. If it's different,then change it in file remote_script.sh line 10.
 
+3) In the main directory change_login_screen. Add the picture you want and rename  it into "Catalina.heic"
+
 Use this code under your own discretion. I'm in no way responsible if there is any damage or loss of data.
